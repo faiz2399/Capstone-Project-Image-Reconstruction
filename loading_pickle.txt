@@ -1,0 +1,7 @@
+file = open('ds_pickle', 'rb')
+
+# dump information to that file
+ds_p = pickle.load(file)
+
+# close the file
+file.close()
