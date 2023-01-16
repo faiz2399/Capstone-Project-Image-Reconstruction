@@ -1,3 +1,7 @@
 /venv
 /.idea
 ds_pickle
+imagenet_subset.pkl
+imagenet_testset.pkl
+imagenet_valset.pkl
+.ipynb_checkpoints
