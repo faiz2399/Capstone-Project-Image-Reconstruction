@@ -1,7 +1,8 @@
 /venv
+.DS_Store
 /.idea
 ds_pickle
-imagenet_subset.pkl
-imagenet_testset.pkl
-imagenet_valset.pkl
 .ipynb_checkpoints
+*.pkl
+*.zip
+*.h5
