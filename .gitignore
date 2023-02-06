@@ -1,6 +1,8 @@
 /venv
+.DS_Store
 /.idea
 ds_pickle
-
 .ipynb_checkpoints
 *.pkl
+*.zip
+*.h5
