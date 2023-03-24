@@ -32,8 +32,9 @@ https://drive.google.com/file/d/1pC1fcT0n8FG2LrKk0tTppfPHl_gZAnHv/view?usp=shari
 
 And run the following code :
 
-from keras.models import load_model
-simple_auto = load_model('conv_auto.h5')
+#from keras.models import load_model
 
-predictions = simple_auto.predict('path to test images')
+#simple_auto = load_model('conv_auto.h5')
+
+#predictions = simple_auto.predict('path to test images')
 
